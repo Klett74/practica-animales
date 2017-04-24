@@ -6,14 +6,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Klett74/practica-animales.git"
-  },
-  "author": "Carlos",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Klett74/practica-animales/issues"
-  },
-  "homepage": "https://github.com/Klett74/practica-animales#readme"
+  "author": "",
+  "license": "ISC"
 }
